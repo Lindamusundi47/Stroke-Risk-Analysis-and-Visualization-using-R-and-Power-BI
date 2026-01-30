@@ -43,7 +43,7 @@ Data cleaning was performed primarily in Excel and included:
 - Converting binary variables to meaningful labels
 - Creating age and BMI categories
 - Ensuring consistent formatting for analysis and visualization
-- The cleaned data:<a href="
+- The cleaned data:<a href="https://github.com/Lindamusundi47/Stroke-Risk-Analysis-and-Visualization-using-R-and-Power-BI/blob/main/Clean_stroke_data.xlsb">Cleaned Dataset</a>
 
 The cleaned dataset was exported for analysis in R and visualization in Power BI.
 
