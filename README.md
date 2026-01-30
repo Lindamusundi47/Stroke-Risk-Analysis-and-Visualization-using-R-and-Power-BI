@@ -50,7 +50,7 @@ The cleaned dataset was exported for analysis in R and visualization in Power BI
 
 ## Exploratory Data Analysis (EDA)
 EDA was conducted in R to examine:
-- Age and BMI distributions
+- Age and BMI distributions<a href="
 - Stroke prevalence across demographic groups
 - Relationships between stroke and clinical risk factors
 
@@ -79,7 +79,7 @@ A logistic regression model was fitted to predict the probability of stroke.
 Model coefficients were extracted and visualized to show:
 - Direction of effect (increases or decreases stroke risk)
 - Relative importance of predictors
-
+-All this were included in my markdown. <a href="https://github.com/Lindamusundi47/Stroke-Risk-Analysis-and-Visualization-using-R-and-Power-BI/blob/main/Stroke%20Analysis3.Rmd">R Markdown</a>
 These results were used to guide Power BI visual storytelling.
 
 
