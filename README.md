@@ -83,8 +83,8 @@ Model coefficients were extracted and visualized to show:
 These results were used to guide Power BI visual storytelling.
 
 
-## 📉 Power BI Dashboard
-I created an interactive Power BI dashboard to:
+##  Power BI Dashboard
+I created an interactive Power BI dashboard to:<a href="https://github.com/Lindamusundi47/Stroke-Risk-Analysis-and-Visualization-using-R-and-Power-BI/blob/main/Stroke-Analysis%20Dashboard.png"> Dashboard</a>
 - Display key KPIs
 - Explore stroke trends by age, gender, BMI, and health conditions
 - Enable filtering through slicers for deeper analysis
