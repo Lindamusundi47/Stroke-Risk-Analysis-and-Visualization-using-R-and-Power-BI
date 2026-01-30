@@ -20,6 +20,7 @@ The workflow covers:
 
 ## Dataset Description
 The data was obtained from Kaggle: 
+
 The dataset contains patient-level health information, including:
 
 - id – Unique patient identifier  
@@ -28,8 +29,8 @@ The dataset contains patient-level health information, including:
 - hypertension– 0 = No, 1 = Yes  
 - heart_disease – 0 = No, 1 = Yes  
 - ever_married – Yes / No  
-- `work_type – Employment category  
-- `Residence_type – Urban / Rural  
+- work_type – Employment category  
+- Residence_type – Urban / Rural  
 - avg_glucose_level– Average blood glucose level  
 - bmi– Body Mass Index  
 - smoking_status – Smoking behavior  
