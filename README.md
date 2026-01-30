@@ -72,7 +72,7 @@ A logistic regression model was fitted to predict the probability of stroke.
 ### Findings:
 - Age and average glucose level significantly increase stroke risk
 - Hypertension and severe obesity are strong predictors
-- Some lifestyle and demographic factors showed weaker associations
+- Urban vs Rural residence shows notable differece in stroke prevelance
 
 
 ## Feature Importance
