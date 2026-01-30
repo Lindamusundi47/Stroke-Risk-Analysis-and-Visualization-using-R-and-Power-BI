@@ -19,7 +19,7 @@ The workflow covers:
 
 
 ## Dataset Description
-The data was obtained from Kaggle: 
+The data was obtained from Kaggle: <a href="https://github.com/Lindamusundi47/Stroke-Risk-Analysis-and-Visualization-using-R-and-Power-BI/blob/main/healthcare-dataset-stroke-data.csv">Dataset</a>
 
 The dataset contains patient-level health information, including:
 
@@ -43,7 +43,7 @@ Data cleaning was performed primarily in Excel and included:
 - Converting binary variables to meaningful labels
 - Creating age and BMI categories
 - Ensuring consistent formatting for analysis and visualization
-- The cleaned data:
+- The cleaned data:<a href="
 
 The cleaned dataset was exported for analysis in R and visualization in Power BI.
 
